@@ -17,8 +17,8 @@ This document provides essential context and instructions for AI agents working 
 
 - `src/app/`: File-based routing directory.
   - `_layout.tsx`: Root layout using `Stack` navigator.
-  - `index.tsx`: Initial route.
   - `(tabs)/`: Tab-based navigation group.
+  - `(tabs)/index.tsx`: Initial route.
 - `assets/`: Images, icons, and font resources.
 - `global.css`: Global Tailwind CSS styles.
 - `app.json`: Expo configuration.
